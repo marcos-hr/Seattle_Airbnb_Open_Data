@@ -4,7 +4,7 @@ This project
 - is part of the Data Science Nanodegree program at Udacity.
 - is meant to serve as a template for future data mining processes.
 - follows the CRISP-DM methodology.
-- is develop using Google Colab. No further configuration than default is needed to run.
+- is developed using Google Colab. No further configuration than default is needed to run.
 
 A non-technical introduction to the project can be found [here](https://medium.com/@marcoshr/how-well-can-you-predict-prices-of-airbnb-houses-7ea54dc5140c).
 
